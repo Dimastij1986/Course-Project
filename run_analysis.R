@@ -1,6 +1,3 @@
-R script:
-
-
 library(dplyr)
 
 features <- read.table("./R-data/Course Project/UCI HAR Dataset/features.txt")
